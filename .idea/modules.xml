@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/data-science-101.iml" filepath="$PROJECT_DIR$/.idea/data-science-101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codeverse.iml" filepath="$PROJECT_DIR$/.idea/codeverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/math-intro/math-intro.iml" filepath="$PROJECT_DIR$/math-intro/math-intro.iml" />
     </modules>
   </component>
