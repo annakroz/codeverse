@@ -1,7 +1,3 @@
-REST: Teach about REST (Representational State Transfer), as most web APIs, including OpenAI's, use
-these concepts. Understanding HTTP methods like GET, POST, PUT, and DELETE will be helpful for
-interacting with RESTful APIs.
-
 JSON: Introduce to JSON (JavaScript Object Notation), a widely used data format for exchanging
 data in APIs. Explain how data can be represented as key-value pairs and how to read and write JSON
 data.
